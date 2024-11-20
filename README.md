@@ -1,0 +1,2 @@
+# JavaScriptRaw
+Raw JavaScript pratice
